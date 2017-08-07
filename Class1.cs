@@ -7,13 +7,13 @@ public class Class1
 {
 	public Class1()
 	{
-		//
-		// TODO: 在此处添加构造函数逻辑
-		//
+		
+    }
 
-        public void Update(){
-            //
-        }
+    public void add() { }
 
-	}
+    public void update() { }
+
+    public void delete() { }
 }
+
