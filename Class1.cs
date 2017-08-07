@@ -15,5 +15,7 @@ public class Class1
     public void update() { }
 
     public void delete() { }
+
+    public void exec() { }
 }
 
