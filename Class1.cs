@@ -14,7 +14,9 @@ public class Class1
         //实现增加111
     }
 
-    public void update() { }
+    public void update() { 
+        //修改了一次
+    }
 
     public void delete() { }
 
