@@ -10,7 +10,9 @@ public class Class1
 		
     }
 
-    public void add() { }
+    public void add() {
+        //实现增加111
+    }
 
     public void update() { }
 
