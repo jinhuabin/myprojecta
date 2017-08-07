@@ -16,6 +16,8 @@ public class Class1
 
     public void delete() { }
 
-    public void exec() { }
+    public void exec() {
+        //执行了
+    }
 }
 
